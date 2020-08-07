@@ -4,7 +4,7 @@
 ## I'm a soon to be University of Toronto Math & CS BS graduate!
 
 - 🔭 I’m currently working on an open source computational engine
-- 🌱 I’m currently learning Computational topology, TensorFlow and  C++ at a working level
+- 🌱 I’m currently learning Computational Topology, TensorFlow and C++ at a working level
 - 📫 How to reach me: alex7285@gmail.com
 - ⚡ Fun fact: I like to play piano!
 
@@ -27,10 +27,13 @@
 - Node.js
 - Firebase
 - React
-- Unix systems
+- Unix systems programming
 ---
 
-[![alexandreLamarre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreLamarre)](https://github.com/anuraghazra/github-readme-stats)
+
+[![alexandreLamarre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreLamarre&cout_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreLamarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
