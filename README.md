@@ -13,7 +13,7 @@
 <br />
 
 ### Languages and Tools
-- ![logo]
+- [<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="200" height="200">]
 - Python: Numpy,Matplotlib,TensorFLow
 - C++:
 - C
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[logo](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg = 250x250)
+[logo] : https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg
