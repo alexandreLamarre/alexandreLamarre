@@ -29,7 +29,7 @@
 - React
 - Unix systems programming
 
-[logo]: https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg = 250x250 "Android Studio"
+
 ---
 
 
@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[logo](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg = 250x250)
