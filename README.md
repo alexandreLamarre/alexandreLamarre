@@ -8,7 +8,7 @@
 - 📫 How to reach me: alex7285@gmail.com
 - ⚡ Fun fact: I like to play piano!
 
-###Connect with me:
+### Connect with me:
 
 <br />
 
@@ -27,7 +27,7 @@
 - Node.js
 - Firebase
 - React
-
+- Unix systems
 ---
 
 [![alexandreLamarre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreLamarre)](https://github.com/anuraghazra/github-readme-stats)
