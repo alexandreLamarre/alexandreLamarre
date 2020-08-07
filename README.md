@@ -29,7 +29,7 @@
 - React
 - Unix systems programming
 
-[logo]: https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css "Atom"
+[logo]: https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg "Android Studio"
 ---
 
 
