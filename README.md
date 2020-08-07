@@ -13,13 +13,13 @@
 <br />
 
 ### Languages and Tools
-<img src ="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height="50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "50" height = "50" ><img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "50" height = "50"><img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = "50" height = "50"><img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "50" width = "50">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "40" height = "40"><img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = "40" height = "40"><img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "40" width = "40">
 <!--
-<img src ="" height = "50" width = "50">
-<img src ="" height = "50" width = "50">
-<img src ="" height = "50" width = "50">
-<img src ="" height = "50" width = "50">
-<img src ="" height = "50" width = "50">
+<img src ="" height = "40" width = "40">
+<img src ="" height = "40" width = "40">
+<img src ="" height = "40" width = "40">
+<img src ="" height = "40" width = "40">
+<img src ="" height = "40" width = "40">
 -->
 - Verilog
 - XML
