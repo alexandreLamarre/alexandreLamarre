@@ -29,7 +29,7 @@
 - React
 - Unix systems programming
 
-[logo]: https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg "Android Studio"
+[logo]: https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg = 250x250 "Android Studio"
 ---
 
 
