@@ -13,7 +13,7 @@
 <br />
 
 ### Languages and Tools
-- [logo]
+- ![logo]
 - Python: Numpy,Matplotlib,TensorFLow
 - C++:
 - C
