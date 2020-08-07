@@ -13,7 +13,7 @@
 <br />
 
 ### Languages and Tools
-
+- [logo]
 - Python: Numpy,Matplotlib,TensorFLow
 - C++:
 - C
@@ -28,7 +28,8 @@
 - Firebase
 - React
 - Unix systems programming
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ---
 
 
