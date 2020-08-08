@@ -40,7 +40,10 @@
 
 <img align="left" alt="alexandreLamarre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandreLamarre&hide=contribs,prs" />
 
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra") />
+
 ---
 <!--
 
