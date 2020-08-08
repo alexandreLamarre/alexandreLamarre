@@ -32,9 +32,9 @@
 ---
 ### Github stats
 
-<img align = "left" src=https://github-readme-stats.vercel.app/api?username=alexandreLamarre&cout_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats>
+<img src=https://github-readme-stats.vercel.app/api?username=alexandreLamarre&cout_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/>
 
-<img align ="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreLamarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)></a>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreLamarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/></a>
 
 <!--
 
