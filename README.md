@@ -12,6 +12,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools
 <a href=#><img src ="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" title="Android Studio" ><img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "40" height = "40" title = "Python" ><img src ="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width = "40" height = "40" title="PyCharm" ><img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "40" height = "40" title = "PostGreSQL"><img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width = "40" height = "40" title = "C++"><img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "40" height = "40" title = "Docker" ><img src ="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width = "40" height = "40" title = "Heroku"><img src ="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width = "40" height = "40" title = "" ><img src ="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "40" height = "40" ><img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "40" height = "40"><img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = "40" height = "40"><img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "40" width = "40">
 <!--
@@ -33,10 +35,8 @@
 
 ### Github stats
 
-[<img src=https://github-readme-stats.vercel.app/api?username=alexandreLamarre&cout_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/>]
-
-[<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreLamarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/>]
-
+<img align="left" alt="alexandreLamarre's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandreLamarre&show_icons=true&hide_border=true" />
+---
 <!--
 
 **alexandreLamarre/alexandreLamarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
