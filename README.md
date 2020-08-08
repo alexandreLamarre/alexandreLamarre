@@ -3,6 +3,8 @@
 
 ## I'm a soon to be University of Toronto Math & CS BS graduate!
 
+---
+
 - 🔭 I’m currently working on getting some work experience in software development
 - 🌱 I’m currently learning Computational Topology, TensorFlow and C++ at a working level
 - 📫 How to reach me: alex7285@gmail.com
@@ -35,9 +37,10 @@
 
 ### Github stats
 
-<img align="left" alt="alexandreLamarre's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandreLamarre&show_icons=true&hide_border=true" />
 
 <img align="left" alt="alexandreLamarre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandreLamarre&hide=contribs,prs" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra") />
 ---
 <!--
 
