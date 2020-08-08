@@ -40,9 +40,6 @@
 
 <img align="left" alt="alexandreLamarre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandreLamarre&hide=contribs,prs" />
 
----
-
-### Language stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreLamarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
