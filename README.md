@@ -30,8 +30,7 @@
 ---
 
 ## Projects
-<details>
-<summary> NE Computational Engine </summary>
+
 <br>
  <p>
  <img align="right" width="70%" height="70%" VSPACE = "50" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif"/>
@@ -41,8 +40,7 @@
 - [Code](https://github.com/alexandreLamarre/NE-web-engine)
 
 - [Latest Deployment]()
-</p>
-</details>
+
 
 <br/>
 <br/>
