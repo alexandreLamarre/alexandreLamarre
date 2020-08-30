@@ -31,7 +31,7 @@
 
 ## Projects
 <details>
- <summary>:zap: NE Computational Engine </summary>
+ <summary> NE Computational Engine </summary>
  
  
  <img align="right" width="70%" height="70%" VSPACE = "50" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif"/>
