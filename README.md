@@ -30,8 +30,9 @@
 ---
 
 ## Projects
-
-### NE Computational Engine
+<details>
+ <summary>:zap: NE Computational Engine </summary>
+ 
  
  <img align="right" width="70%" height="70%" VSPACE = "50" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif"/>
  A computational engine that combines a flexible and powerful interpreter with symbolic computation and numerical analysis to produce a tool for educational purposes as well as a simple, quick tool to visualize complex scientific data.
@@ -40,8 +41,8 @@
 - [Code](https://github.com/alexandreLamarre/NE-web-engine)
 
 - [Latest Deployment]()
-</img>
 
+</details>
 
 <br/>
 <br/>
