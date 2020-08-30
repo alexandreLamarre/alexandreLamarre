@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex!
 
-## I'm a soon to be University of Toronto Math & CS BS graduate!
+### I'm a soon to be University of Toronto Math & CS BSA graduate!
 
 ---
 
@@ -52,6 +52,7 @@
 <br/>
 <br/>
 
+---
 
 ## Github stats
 
