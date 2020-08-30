@@ -33,7 +33,7 @@
 
 ### NE Computational Engine
  
- <img align="right" width="70%" height="70%" VSPACE = "50" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif">
+ <img align="right" width="70%" height="70%" VSPACE = "50" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif"/>
  A computational engine that combines a flexible and powerful interpreter with symbolic computation and numerical analysis to produce a tool for educational purposes as well as a simple, quick tool to visualize complex scientific data.
 
 
@@ -41,9 +41,19 @@
 
 - [Latest Deployment]()
 </img>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
-### Github stats
+
+## Github stats
 
 
 <img align="left" alt="alexandreLamarre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandreLamarre&hide=contribs,prs" />
