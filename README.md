@@ -8,10 +8,6 @@
 - 🌱 I’m currently learning Computational Topology, TensorFlow
 - 📫 How to reach me: alex7285@gmail.com
 - 😄 2020 goals: Get my TensorFlow certification
-### Connect with me:
-
-<br />
-
 ---
 
 ### Languages and Tools
