@@ -33,16 +33,15 @@
 ## Projects
 
 ### NE Computational Engine
-
-A computational engine that combines a flexible and powerful interpreter with symbolic computation and numerical analysis to produce a tool for educational purposes and quick, simple scientific data visualization. 
- <img align="right" width="70%" height="70%" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif">
+ 
+ <img align="right" width="70%" height="70%" VSPACE = "50" src="https://github.com/alexandreLamarre/alexandreLamarre/blob/master/demo.gif">
  A computational engine that combines a flexible and powerful interpreter with symbolic computation and numerical analysis to produce a tool for educational purposes as well as a simple, quick tool to visualize complex scientific data.
 
 
 - [Code](https://github.com/alexandreLamarre/NE-web-engine)
 
 - [Latest Deployment]()
-
+</img>
 <br/>
 
 ### Github stats
