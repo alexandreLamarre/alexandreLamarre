@@ -30,8 +30,8 @@
 ---
 
 ## Projects
-
- - Network Algorithm Visualization:<pre>     [Code](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Documentation](https://github.com/alexandreLamarre/Network-Algorithm-Visualization/blob/master/README.md) | [Latest deployment](https://alexandrelamarre.github.io/Network-Algorithm-Visualization/) </pre>
+- Network Algorithm Visualization:
+  - [Code](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Documentation](https://github.com/alexandreLamarre/Network-Algorithm-Visualization/blob/master/README.md) | [Latest deployment](https://alexandrelamarre.github.io/Network-Algorithm-Visualization/) </pre>
 <!--
 <br>
  <p>
