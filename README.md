@@ -32,6 +32,9 @@
 ## Projects
 - Network Algorithm Visualization:
   - [Code](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Documentation](https://github.com/alexandreLamarre/Network-Algorithm-Visualization/blob/master/README.md) | [Latest deployment](https://alexandrelamarre.github.io/Network-Algorithm-Visualization/) </pre>
+  
+- Deep Learning Go AI:
+  - [Code(Backend)](https://github.com/alexandreLamarre/Go-AI-backend) | [Code(Frontend)](https://github.com/alexandreLamarre/Go-AI-frontend) | [Documentation(Backend)]() | [Documentation(Frontend)]() | [Latest deployment]()
 <!--
 <br>
  <p>
@@ -42,7 +45,6 @@
 - [Code](https://github.com/alexandreLamarre/NE-web-engine)
 
 - [Latest Deployment]()
-
 
 <br/>
 <br/>
