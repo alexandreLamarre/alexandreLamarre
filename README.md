@@ -29,7 +29,7 @@
 
 ---
 
-## Projects
+## [Projects](https://github.com/alexandreLamarre/Project-Directory/blob/main/README.md)
 - Network Algorithm Visualization:
   - [Code](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Documentation](https://github.com/alexandreLamarre/Network-Algorithm-Visualization/blob/master/README.md) | [Latest deployment](https://alexandrelamarre.github.io/Network-Algorithm-Visualization/) </pre>
   
