@@ -33,9 +33,15 @@
 ## [Projects](https://github.com/alexandreLamarre/Project-Directory/blob/main/README.md)
 - Network Algorithm Visualization:
   - [Code](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Documentation](https://github.com/alexandreLamarre/Network-Algorithm-Visualization/blob/master/README.md) | [Latest deployment](https://alexandrelamarre.github.io/Network-Analysis-Visualization/) </pre>
+ 
+- Sorting Algorithm Visualizer:
+  - [Code](https://github.com/alexandreLamarre/SortVisualizer) | [Documentation](https://github.com/alexandreLamarre/SortVisualizer) | [Latest deployment](https://alexandrelamarre.github.io/SortVisualizer/)
+
+- Golang Ray Tracing Renderer:
+  - [Code](https://github.com/alexandreLamarre/Golang-Ray-Tracing-Renderer) | [Documentation](https://github.com/alexandreLamarre/Golang-Ray-Tracing-Renderer)
   
-- Deep Learning Go AI:
-  - [Code(Backend)](https://github.com/alexandreLamarre/Go-AI-backend) | [Code(Frontend)](https://github.com/alexandreLamarre/Go-AI-frontend) | [Documentation(Backend)]() | [Documentation(Frontend)]() | [Latest deployment]()
+- Deep Learning Go AI (In progress):
+  - [Code(Backend)](https://github.com/alexandreLamarre/Go-AI-backend) | [Code(Frontend)](https://github.com/alexandreLamarre/Go-AI-frontend) | [Documentation(Backend)]() | [Documentation(Frontend)]()
 <!--
 <br>
  <p>
