@@ -1,34 +1,61 @@
-<!--### Hi there 👋 I'm Alex!
 
-### I'm a soon to be University of Toronto Math & CS BSA graduate!
 
----
+### Languages 
+<a href=#>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="40" height="40" title="Perl"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" title="Golang"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40" height="40" title="Bash"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="Css"/>    
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40" title="OpenGL/Glsl">                                                                                                                          
+</a>
 
-- 🔭 I’m currently working on getting some work experience in software development
-- 🌱 I’m currently learning Computational Topology, TensorFlow
-- 📫 How to reach me: alex7285@gmail.com
-- 😄 2020 goals: Get my TensorFlow certification
----
--->
+### Web Frameworks
+                                                                                                                            
+<a href=#>                                                                                                                            
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40" title="Electron"/>                                           
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="40" height="40" title="Three.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="40" height="40" title="Ionic"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular.js"/>   
+                                                                                                                                            </a>
+                                                                                                                                             
+### Dev Ops Frameworks & Tools
+                                                                                                                                             
+<a href=#>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height = "40" width = "40" title="Kubernetes"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height = "40" width = "40" title="Jenkins"/>
+  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/jfrog.svg" height = "40" width = "40" title="Artifactory/JFrog"/>
+  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" height = "40" width = "40" title="Postman"/>
+  
+</a>
 
-### Languages and Tools
-<a href=#><img src ="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40" title="Android Studio" /><img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "40" height = "40" title = "Python" /><img src ="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width = "40" height = "40" title="PyCharm" /><img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "40" height = "40" title = "PostGreSQL"/><img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width = "40" height = "40" title = "C++"/><img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "40" height = "40" title = "Docker"/><img src ="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width = "40" height = "40" title="Heroku"/><img src ="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width = "40" height = "40" title = "IntelliJ"/><img src ="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width = "40" height = "40"/><img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "40" height = "40" title="Java"/><img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "40" height = "40" title = "Javascript"/><img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "40" height = "40" title= "HTML5"/><img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = "40" height = "40" title="C"/><img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "40" width = "40" title="CSS"/></a>
+### AI & Scientific frameworks/libraries
+<a href=#>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height = "40" width = "40" title="Jupyter Notebook"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height = "40" width = "40" title="Tensorflow"/>
+    <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" height = "40" width = "40" title="Keras"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height = "40" width = "40" title="NumPy"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height = "40" width = "40" title="Pandas"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height = "40" width = "40" title="Matplotlib"/>
+    <img src="https://github.com/gilbarbara/logos/blob/master/logos/opencv.svg" height = "40" width = "40" title="OpenCV"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" title="Sklearn">                                                                                                                      
+</a>                                         
+
+
 <!--
-<img src ="" height = "40" width = "40">
-<img src ="" height = "40" width = "40">
-<img src ="" height = "40" width = "40">
-<img src ="" height = "40" width = "40">
-<img src ="" height = "40" width = "40">
-
-- Verilog
-- XML
-- Node.js
-- Firebase
-- React
-- Unix systems programming
+                                           <img src ="" height = "40" width = "40"/>
 -->
 
----
 
 ## [Projects](https://github.com/alexandreLamarre/Project-Directory/blob/main/README.md)
 - Network Algorithm Visualization:
