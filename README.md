@@ -1,7 +1,7 @@
 
 
 ### Languages 
-<a href=#>
+<a href=# style="text-decoration: none;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python3" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="40" height="40" title="Perl" style="text-decoration: none;"/>
@@ -18,7 +18,7 @@
 
 ### Web Frameworks
                                                                                                                             
-<a href=#>                                                                                                                            
+<a href=# style="text-decoration: none;">                                                                                                                            
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React.js" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40" title="Electron" style="text-decoration: none;"/>                                           
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask" style="text-decoration: none;"/>
@@ -30,7 +30,7 @@
                                                                                                                                              
 ### Dev Ops Frameworks & Tools
                                                                                                                                              
-<a href=#>
+<a href=# style="text-decoration: none;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" style="text-decoration: none;"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height = "40" width = "40" title="Kubernetes" style="text-decoration: none;"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height = "40" width = "40" title="Jenkins" style="text-decoration: none;"/>
@@ -40,7 +40,7 @@
 </a>
 
 ### AI & Scientific frameworks/libraries
-<a href=#>
+<a href=# style="text-decoration: none;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height = "40" width = "40" title="Jupyter Notebook" style="text-decoration: none;"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height = "40" width = "40" title="Tensorflow" style="text-decoration: none;"/>
     <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" height = "40" width = "40" title="Keras" style="text-decoration: none;"/>
