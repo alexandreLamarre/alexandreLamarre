@@ -2,53 +2,53 @@
 
 ### Languages 
 <a href=#>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="40" height="40" title="Perl"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" title="Golang"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40" height="40" title="Bash"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="Css"/>    
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40" title="OpenGL/Glsl">                                                                                                                          
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python3" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="40" height="40" title="Perl" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" style="text-decoration: none;"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" title="C" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" title="Golang" style="text-decoration: none;"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" title="Java" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40" height="40" title="Bash" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="Css" style="text-decoration: none;"/>    
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40" title="OpenGL/Glsl" style="text-decoration: none;"/>                                                                                                                          
 </a>
 
 ### Web Frameworks
                                                                                                                             
 <a href=#>                                                                                                                            
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React.js"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40" title="Electron"/>                                           
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="40" height="40" title="Three.js"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="40" height="40" title="Ionic"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular.js"/>   
-                                                                                                                                            </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React.js" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40" title="Electron" style="text-decoration: none;"/>                                           
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="40" height="40" title="Three.js" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="40" height="40" title="Ionic" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular.js" style="text-decoration: none;"/>   
+</a>
                                                                                                                                              
 ### Dev Ops Frameworks & Tools
                                                                                                                                              
 <a href=#>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height = "40" width = "40" title="Kubernetes"/>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height = "40" width = "40" title="Jenkins"/>
-  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/jfrog.svg" height = "40" width = "40" title="Artifactory/JFrog"/>
-  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" height = "40" width = "40" title="Postman"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" style="text-decoration: none;"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height = "40" width = "40" title="Kubernetes" style="text-decoration: none;"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height = "40" width = "40" title="Jenkins" style="text-decoration: none;"/>
+  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/jfrog.svg" height = "40" width = "40" title="Artifactory/JFrog" style="text-decoration: none;"/>
+  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" height = "40" width = "40" title="Postman" style="text-decoration: none;"/>
   
 </a>
 
 ### AI & Scientific frameworks/libraries
 <a href=#>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height = "40" width = "40" title="Jupyter Notebook"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height = "40" width = "40" title="Tensorflow"/>
-    <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" height = "40" width = "40" title="Keras"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height = "40" width = "40" title="NumPy"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height = "40" width = "40" title="Pandas"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height = "40" width = "40" title="Matplotlib"/>
-    <img src="https://github.com/gilbarbara/logos/blob/master/logos/opencv.svg" height = "40" width = "40" title="OpenCV"/>  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" title="Sklearn">                                                                                                                      
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height = "40" width = "40" title="Jupyter Notebook" style="text-decoration: none;"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height = "40" width = "40" title="Tensorflow" style="text-decoration: none;"/>
+    <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" height = "40" width = "40" title="Keras" style="text-decoration: none;"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height = "40" width = "40" title="NumPy"style="text-decoration: none;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height = "40" width = "40" title="Pandas"style="text-decoration: none;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height = "40" width = "40" title="Matplotlib" style="text-decoration: none;"/>
+    <img src="https://github.com/gilbarbara/logos/blob/master/logos/opencv.svg" height = "40" width = "40" title="OpenCV"style="text-decoration: none;" />  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" title="Sklearn" style="text-decoration: none;"/>                                                                                                                      
 </a>                                         
 
 
