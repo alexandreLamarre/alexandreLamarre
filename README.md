@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20" title="Node.js" style="text-decoration: none;"/>   
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20" height="20" title="Golang" style="text-decoration: none;"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20" title="Java" style="text-decoration: none;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20" title="Java" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="20" height="20" title="Bash" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20" title="HTML5" style="text-decoration: none;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20" title="Css" style="text-decoration: none;"/>    
@@ -43,7 +43,7 @@
 <a href=# style="text-decoration: none;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height = "20" width = "20" title="Jupyter Notebook" style="text-decoration: none;"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height = "20" width = "20" title="Tensorflow" style="text-decoration: none;"/>
-    <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" height = "20" width = "20" title="Keras" style="text-decoration: none;"/>
+    <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" height="20" width="20" title="Keras" style="text-decoration: none;"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height = "20" width = "20" title="NumPy"style="text-decoration: none;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height = "20" width = "20" title="Pandas"style="text-decoration: none;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height = "20" width = "20" title="Matplotlib" style="text-decoration: none;"/>
