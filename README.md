@@ -1,57 +1,41 @@
 ![](./header.png)
 
-### Languages
+---
 
-<a href=# style="text-decoration: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20" title="Python3" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" title="Javascript" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="20" height="20" title="Perl" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20" title="C++" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20" title="Node.js" style="text-decoration: none;"/>   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20" height="20" title="Golang" style="text-decoration: none;"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20" title="Java" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="20" height="20" title="Bash" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20" title="HTML5" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20" title="Css" style="text-decoration: none;"/>    
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="20" height="20" title="OpenGL/Glsl" style="text-decoration: none;"/>                                                                                                                          
-</a>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 
-### Web Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<a href=# style="text-decoration: none;">                                                                                                                            
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20" title="React.js" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="20" height="20" title="Electron" style="text-decoration: none;"/>                                           
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="20" height="20" title="Flask" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="20" height="20" title="Express" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="20" height="20" title="Three.js" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="20" height="20" title="Ionic" style="text-decoration: none;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="20" height="20" title="Angular.js" style="text-decoration: none;"/>   
-</a>
-                                                                                                                                             
-### Dev Ops Frameworks & Tools
-                                                                                                                                             
-<a href=# style="text-decoration: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="20" height="20" title="Docker" style="text-decoration: none;"/>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height = "20" width = "20" title="Kubernetes" style="text-decoration: none;"/>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height = "20" width = "20" title="Jenkins" style="text-decoration: none;"/>
-  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/jfrog.svg" height = "20" width = "20" title="Artifactory/JFrog" style="text-decoration: none;"/>
-  <img src ="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" height = "20" width = "20" title="Postman" style="text-decoration: none;"/>
-  
-</a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### AI & Scientific frameworks/libraries
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href=# style="text-decoration: none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height = "20" width = "20" title="Jupyter Notebook" style="text-decoration: none;"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height = "20" width = "20" title="Tensorflow" style="text-decoration: none;"/>
-    <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" height = "20" width = "20" title="Keras" style="text-decoration: none;"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height = "20" width = "20" title="NumPy"style="text-decoration: none;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height = "20" width = "20" title="Pandas"style="text-decoration: none;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height = "20" width = "20" title="Matplotlib" style="text-decoration: none;"/>
-    <img src="https://github.com/gilbarbara/logos/blob/master/logos/opencv.svg" height = "20" width = "20" title="OpenCV"style="text-decoration: none;" />  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="20" width="20" title="Sklearn" style="text-decoration: none;"/>                                                                                                                      
-</a>
+## Links
+
+<a href="https://www.linkedin.com/in/alexandre-lamarre/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alex7285@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/alexandreLamarre/alexandreLamarre" target="_blank"> <img src = "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
