@@ -1,5 +1,6 @@
 ![](./header.png)
 
+<!--
 ---
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -36,6 +37,8 @@
 <a href="https://www.linkedin.com/in/alexandre-lamarre/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alex7285@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/alexandreLamarre/alexandreLamarre" target="_blank"> <img src = "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+
+-->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
