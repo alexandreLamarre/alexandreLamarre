@@ -40,7 +40,11 @@
 
 -->
 
+<!--
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+-->
 
 <!--
                                            <img src ="" height = "20" width = "20"/>
