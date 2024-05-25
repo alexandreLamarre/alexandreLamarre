@@ -52,8 +52,8 @@
 
 ## [Projects](https://github.com/alexandreLamarre/Project-Directory/blob/main/README.md)
 
-- Network Algorithm Visualization:
-  - [Code](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Documentation](https://github.com/alexandreLamarre/Network-Algorithm-Visualization/blob/master/README.md) | [Latest deployment](https://alexandrelamarre.github.io/Network-Analysis-Visualization/) </pre>
+- [Network Algorithm Visualization](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Latest deployment](https://alexandrelamarre.github.io/Network-Analysis-Visualization/)
+- [Distributed locking](https://github.com/alexandreLamarre/dlock) | ![Release](https://img.shields.io/github/v/release/alexandreLamarre/dlock)
   <!--
 - Sorting Algorithm Visualizer:
 
