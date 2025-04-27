@@ -50,6 +50,14 @@
                                            <img src ="" height = "20" width = "20"/>
 -->
 
+
+>It seems to be the designer's responsibility to construct his mechanism in such a way--i.e, so effectively structured--that
+at each stage of the testing procedure the number of relevant test cases will be so small that he can try them all and
+that what is being tested will be so perspicuous that he
+will not have overlooked any situation
+>
+- Dijkstra, 1968, The Structure of the "THE"-Multiprogramming System
+
 ## [Projects](https://github.com/alexandreLamarre/Project-Directory/blob/main/README.md)
 
 - [Network Algorithm Visualization](https://github.com/alexandreLamarre/Network-Algorithm-Visualization) | [Latest deployment](https://alexandrelamarre.github.io/Network-Analysis-Visualization/)
